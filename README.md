@@ -39,3 +39,7 @@ The database `views.db` contains details on:
 2. Open SQLite and load the database:
    ```sql
    sqlite3 views.db
+
+📌 Connect With Me
+💼 GitHub
+📧 andressaalvesmotaa@gmail.com
