@@ -41,5 +41,4 @@ The database `views.db` contains details on:
    sqlite3 views.db
 
 📌 Connect With Me
-💼 GitHub
 📧 andressaalvesmotaa@gmail.com
